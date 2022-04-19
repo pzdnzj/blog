@@ -5,5 +5,6 @@ class PagesController < ApplicationController
 
   def about
     #aaaaaa
+    # bbb
   end
 end
