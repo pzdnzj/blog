@@ -4,6 +4,6 @@ class PagesController < ApplicationController
   end
 
   def about
-
+    #aaaaaa
   end
 end
